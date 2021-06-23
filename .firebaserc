@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firbid-admin": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "firbid-admin"
+        ]
+      }
+    }
+  }
+}
